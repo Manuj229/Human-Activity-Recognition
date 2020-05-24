@@ -35,5 +35,4 @@ Applying a convolutional 2D network. With activation fuction as Rectified Linear
 Step 15:
 Compiling the model using model.fit method with 8 epochs.
 
-
 Result: Achieved an accuracy of 71% in 8 Epochs.
